@@ -1,0 +1,2 @@
+# WSC
+Wireless sound control
